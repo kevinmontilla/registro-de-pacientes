@@ -1,0 +1,48 @@
+## --- Carpetas generadas automáticamente ---
+bin/
+obj/
+.vs/
+Debug/
+Release/
+x64/
+x86/
+[Aa]rtifacts/
+
+## --- Archivos temporales y de usuario ---
+*.user
+*.userosscache
+*.suo
+*.cache
+*.log
+*.tlog
+
+## --- Archivos de configuración local ---
+*.vcxproj.user
+*.csproj.user
+
+## --- Archivos de compilación ---
+*.dll
+*.exe
+*.pdb
+
+## --- Archivos de dependencias recreables ---
+packages/
+*. NuGet.Config
+
+## --- Archivos de Visual Studio / Rider / IDEs ---
+*.ide
+.idea/
+*.iml
+
+## --- Archivos de test y cobertura ---
+TestResult*/
+*.coverage
+*.coveragexml
+
+## --- Archivos del sistema operativo ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+## --- Publicaciones (si no deseas subir builds) ---
+publish/
